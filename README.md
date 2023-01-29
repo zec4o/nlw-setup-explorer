@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center"> Habits </h1>
 
 <p align="center">
@@ -47,6 +46,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-=======
-# nlw-setup-explorer
->>>>>>> 830db3179a4fe324bf7a5fe8ea6fa9f278d6b348
