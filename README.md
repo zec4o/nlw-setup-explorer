@@ -33,7 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrerar os seus hábitos.
+O Habit é um app para ajudar a rastrerar os seus hábitos.
+
+- [Visite o projeto através deste link :)](https://zec4o.github.io/nlw-setup-explorer/)
 
 ## 🔖 Layout
 
